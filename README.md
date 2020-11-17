@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Jordan and I'm a Web Developer!
 
 <!--
 **jordanaf808/jordanaf808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
