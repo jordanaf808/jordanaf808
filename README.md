@@ -3,6 +3,12 @@
 
 # Hi there! 👋  My name is Jordan and I'm a Web Developer!
 
+🧗 ➟ Dedicated and detail-oriented Front-End / Full-Stack Javascript Developer seeking an entry-level role utilizing React and Node.js.
+
+🏗️ ➟ Experience in building and deploying Full Stack web apps using the latest ES9 Javascript on React or Node.js, connecting to databases like MongoDB and Firebase, consuming REST API's, and displaying it beautifully on the screen with css frameworks like Bootstrap, MaterialUI, TailwindCSS, or using CSS, SASS, or CSS-in-JS.
+
+🕺 ➟ Skilled in delivering an exceptional product, with excellent customer service and communication in a timely manner. I love working together as a team to solve problems and achieve the impossible!
+
 ## 📞 Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-jordanAF808-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordanaf808/)](https://www.linkedin.com/in/jordanaf808/)
